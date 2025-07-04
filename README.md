@@ -1,4 +1,4 @@
-# DBMS-Assgn4
+# Hospital Queue Management
 A web application that does stuff
 
 To run the web application:
